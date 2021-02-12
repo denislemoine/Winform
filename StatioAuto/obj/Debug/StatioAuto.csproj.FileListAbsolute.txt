@@ -1,0 +1,15 @@
+D:\Dev\StatioAuto\StatioAuto\bin\Debug\StatioAuto.exe.config
+D:\Dev\StatioAuto\StatioAuto\bin\Debug\StatioAuto.exe
+D:\Dev\StatioAuto\StatioAuto\bin\Debug\StatioAuto.pdb
+D:\Dev\StatioAuto\StatioAuto\obj\Debug\StatioAuto.Form1.resources
+D:\Dev\StatioAuto\StatioAuto\obj\Debug\StatioAuto.PavetNum.resources
+D:\Dev\StatioAuto\StatioAuto\obj\Debug\StatioAuto.Properties.Resources.resources
+D:\Dev\StatioAuto\StatioAuto\obj\Debug\StatioAuto.csproj.GenerateResource.cache
+D:\Dev\StatioAuto\StatioAuto\obj\Debug\StatioAuto.csproj.CoreCompileInputs.cache
+D:\Dev\StatioAuto\StatioAuto\obj\Debug\StatioAuto.exe
+D:\Dev\StatioAuto\StatioAuto\obj\Debug\StatioAuto.pdb
+D:\Dev\StatioAuto\StatioAuto\obj\Debug\StatioAuto.drapeau.resources
+D:\Dev\StatioAuto\StatioAuto\obj\Debug\StatioAuto.Form2.resources
+D:\Dev\StatioAuto\StatioAuto\obj\Debug\StatioAuto.TypeEssence.resources
+D:\Dev\StatioAuto\StatioAuto\obj\Debug\StatioAuto.pavetTicket.resources
+D:\Dev\StatioAuto\StatioAuto\obj\Debug\StatioAuto.csprojAssemblyReference.cache
